@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=GoLand
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/geek/Apps/GoLand/bin/goland
+Comment=IDE
+Icon=/home/geek/Apps/GoLand/bin/goland.png
+Categories=IDE
+StartupNotify=true

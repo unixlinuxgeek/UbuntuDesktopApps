@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=clion
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/home/geek/Apps/clion/bin/clion
+Comment=IDE
+Icon=/home/geek/Apps/clion/bin/clion.png
+Categories=IDE
+StartupNotify=true
