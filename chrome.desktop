@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=chrome
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/opt/google/chrome/chrome
+Comment=Browser
+Icon=/opt/google/chrome/product_logo_48.png
+Categories=Network;WebBrowser;
+StartupNotify=true
